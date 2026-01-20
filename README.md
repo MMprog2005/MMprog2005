@@ -1,10 +1,8 @@
-<h1 align="center" style="color:#2f2f2f;">
-  Olá, eu sou Gabriel Marra
+<h1 style="color:#2f2f2f;">
+  Gabriel Marra
 </h1>
 
-<h3 align="center" style="color:#c25e2b;">
-  Desenvolvedor Full Stack • Backend First
-</h3>
+**`Desenvolvedor FullStack`**
 
 <p align="center">
   <img 
@@ -13,19 +11,11 @@
   />
 </p>
 
-<p align="center">
-  Desenvolvimento de aplicações web robustas, com foco em <strong>PHP/Laravel</strong>, <strong>Python</strong> e bancos de dados relacionais.  
-  Código limpo, segurança e arquitetura bem definida não são opcionais.
-</p>
 
----
-
-## 🧠 Perfil Profissional
-
-Atuo no desenvolvimento de **sistemas escaláveis e seguros**, com forte foco em backend.  
-Tenho experiência na construção de **APIs**, **modelagem de dados**, **controle de acesso**, **validação** e **organização de código** para projetos de médio e grande porte.
-
-No frontend, priorizo **interfaces funcionais, leves e consistentes**, integradas corretamente ao backend.
+Desenvolvimento de aplicações web robustas, com foco em <strong>PHP/Laravel</strong>, <strong>Python</strong> e bancos de dados relacionais.  
+  Código limpo, segurança e arquitetura bem definida não são opcionais. Atuo no desenvolvimento de **sistemas escaláveis e seguros**, com forte foco em backend.  
+  
+  Tenho experiência na construção de **APIs**, **modelagem de dados**, **controle de acesso**, **validação** e **organização de código** para projetos de médio e grande porte. No frontend, priorizo **interfaces funcionais, leves e consistentes**, integradas corretamente ao backend.
 
 ---
 
@@ -55,15 +45,15 @@ No frontend, priorizo **interfaces funcionais, leves e consistentes**, integrada
 ## 📬 Contato
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:gabrielmarrameireles@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff7a18?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/gabriel-marra-b7502b310/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/SEU_INSTAGRAM">
+  <a href="https://www.instagram.com/gabrielmarrameireles/">
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
