@@ -50,10 +50,10 @@ Minha atuação é centrada na construção de aplicações escaláveis e segura
   <a href="mailto:gabrielmarrameireles@gmail.com">
     <img src="https://img.shields.io/badge/Email-A89F91?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/gabriel-marra-b7502b310/)">
+  <a href="https://www.linkedin.com/in/gabriel-marra-b7502b310/">
     <img src="https://img.shields.io/badge/LinkedIn-594a42?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://instagram.com/SEU_INSTAGRAM](https://www.instagram.com/gabrielmarrameireles/)">
+  <a href="https://www.instagram.com/gabrielmarrameireles/">
     <img src="https://img.shields.io/badge/Instagram-4a4a4a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
