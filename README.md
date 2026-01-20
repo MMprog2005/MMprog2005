@@ -1,63 +1,76 @@
-<h1 align="center" style="color: #4a4a4a;">Olá, eu sou o Gabriel Marra Meireles</h1>
-<h3 align="center" style="color: #8b7355;">Desenvolvedor Backend</h3>
+<h1 align="center" style="color:#2f2f2f;">
+  Olá, eu sou Gabriel Marra
+</h1>
+
+<h3 align="center" style="color:#c25e2b;">
+  Desenvolvedor Full Stack • Backend First
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b7355&height=180&section=header&text=&fontSize=90" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=ff7a18&height=160&section=header"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  Especialista em desenvolvimento web robusto, com foco em ecossistema PHP e Python. <br>
-  Crio soluções completas, desde a arquitetura de banco de dados até interfaces responsivas, prezando sempre pela qualidade de código e performance.
-</p>
-
-<br>
-
-<h2 align="center" style="color: #4a4a4a;">Perfil Profissional</h2>
-
-<p align="justify">
-Minha atuação é centrada na construção de aplicações escaláveis e seguras. Tenho sólida experiência na estruturação de backends complexos utilizando <strong>Laravel</strong> e <strong>Python</strong>, integrados a bancos de dados relacionais de alta performance. No frontend, utilizo abordagens modernas para criar interfaces limpas e funcionais. Além disso, aplico containers com <strong>Docker</strong> para garantir consistência entre ambientes de desenvolvimento e produção.
+  Desenvolvimento de aplicações web robustas, com foco em <strong>PHP/Laravel</strong>, <strong>Python</strong> e bancos de dados relacionais.  
+  Código limpo, segurança e arquitetura bem definida não são opcionais.
 </p>
 
 ---
 
-<h2 align="center" style="color: #4a4a4a;">Stack Tecnológico</h2>
+## 🧠 Perfil Profissional
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-4a4a4a?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-8b7355?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-3E3B39?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-A89F91?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+Atuo no desenvolvimento de **sistemas escaláveis e seguros**, com forte foco em backend.  
+Tenho experiência na construção de **APIs**, **modelagem de dados**, **controle de acesso**, **validação** e **organização de código** para projetos de médio e grande porte.
 
-  <br>
-
-  <img src="https://img.shields.io/badge/HTML5-8b7355?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-666666?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/PostgreSQL-4a4a4a?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-8b7355?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-A89F91?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<br>
+No frontend, priorizo **interfaces funcionais, leves e consistentes**, integradas corretamente ao backend.
 
 ---
 
-<h2 align="center" style="color: #4a4a4a;">Contato</h2>
+## 🚀 Linguagens e Tecnologias
 
 <p align="center">
-  <a href="mailto:gabrielmarrameireles@gmail.com">
-    <img src="https://img.shields.io/badge/Email-A89F91?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34"/>
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff7a18?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-marra-b7502b310/">
-    <img src="https://img.shields.io/badge/LinkedIn-594a42?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/gabrielmarrameireles/">
-    <img src="https://img.shields.io/badge/Instagram-4a4a4a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://instagram.com/SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b7355&height=100&section=footer" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=ff7a18&height=100&section=footer"
+    width="100%"
+  />
 </p>
