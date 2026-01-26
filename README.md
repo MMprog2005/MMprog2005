@@ -15,7 +15,7 @@
 Desenvolvimento de aplicações web robustas, com foco em <strong>PHP/Laravel</strong>, <strong>Python</strong> e bancos de dados relacionais.  
   Código limpo, segurança e arquitetura bem definida não são opcionais. Atuo no desenvolvimento de **sistemas escaláveis e seguros**, com forte foco em backend.  
   
-  Tenho experiência na construção de **APIs**, **Arquitetura MVC** **modelagem de dados**, **controle de acesso**, **validação** e **organização de código** para projetos de médio e grande porte. No frontend, priorizo **interfaces funcionais, leves e consistentes**, integradas corretamente ao backend.
+  Tenho experiência na construção de **APIs**, **arquitetura MVC**, **modelagem de dados**, **controle de acesso**, **validação** e **organização de código** para projetos de médio e grande porte. No frontend, priorizo **interfaces funcionais, leves e consistentes**, integradas corretamente ao backend.
 
 ---
 
