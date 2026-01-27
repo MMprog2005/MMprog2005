@@ -42,6 +42,19 @@ Desenvolvimento de aplicações web robustas, com foco em <strong>PHP/Laravel</s
 
 ---
 
+## 🧩 Projetos em Destaque
+
+Abaixo estão alguns dos projetos que melhor representam minha forma de trabalhar:  
+**arquitetura bem definida, foco em backend, segurança e organização de código.**
+
+### ☕ Florada
+Sistema voltado à gestão rural da cultura do café e **grande vercedor do Prêmio de Emprededorismo UNIPAM**, com foco em organização de atividades, controle de dados e escalabilidade.
+
+- 📘 Documentação e Explicação: https://florada-docs.vercel.app/ 
+
+**Tecnologias:** PHP, Laravel, MySQL, Docker, React Native, TypeScript.
+
+
 ## 📬 Contato
 
 <p align="center">
