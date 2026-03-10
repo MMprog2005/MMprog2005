@@ -2,7 +2,7 @@
   Gabriel Marra
 </h1>
 
-**`Desenvolvedor FullStack`**
+**`Backend Developer | PHP • Laravel • APIs`**
 
 <p align="center">
   <img 
@@ -11,11 +11,11 @@
   />
 </p>
 
+Desenvolvedor focado em **backend**, especializado na construção de **APIs REST**, **arquitetura MVC** e **modelagem de banco de dados** utilizando **PHP/Laravel**.
 
-Desenvolvimento de aplicações web robustas, com foco em <strong>PHP/Laravel</strong>, <strong>Python</strong> e bancos de dados relacionais.  
-  Código limpo, segurança e arquitetura bem definida não são opcionais. Atuo no desenvolvimento de **sistemas escaláveis e seguros**, com forte foco em backend.  
-  
-  Tenho experiência na construção de **APIs**, **arquitetura MVC**, **modelagem de dados**, **controle de acesso**, **validação** e **organização de código** para projetos de médio e grande porte. No frontend, priorizo **interfaces funcionais, leves e consistentes**, integradas corretamente ao backend.
+Atuo no desenvolvimento de **sistemas web estruturados, seguros e escaláveis**, com forte atenção à organização do código, validação de dados, controle de acesso e boas práticas de engenharia de software.
+
+Tenho experiência no desenvolvimento de **sistemas administrativos e aplicações de gestão**, estruturando APIs que integram aplicações web e mobile.
 
 ---
 
@@ -26,7 +26,6 @@ Desenvolvimento de aplicações web robustas, com foco em <strong>PHP/Laravel</s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34"/>
@@ -42,16 +41,35 @@ Desenvolvimento de aplicações web robustas, com foco em <strong>PHP/Laravel</s
 
 ---
 
+## 🧠 Áreas de Atuação
+
+- Desenvolvimento **Backend**
+- Construção de **APIs REST**
+- **Arquitetura MVC**
+- **Modelagem de banco de dados**
+- **Controle de autenticação e permissões**
+- **Validação e integridade de dados**
+- Integração **backend ↔ aplicações mobile/web**
+
+---
+
 ## 🧩 Projetos em Destaque
 
-
 ### ☕ Florada
-Sistema voltado à gestão rural da cultura do café e **grande vencedor do Prêmio de Emprededorismo UNIPAM**, com foco em organização de atividades, controle de dados e escalabilidade.
 
-- 📘 Documentação e Explicação: https://florada-docs.vercel.app/ 
+Sistema de **gestão agrícola voltado para a produção de café**, desenvolvido para organizar atividades rurais, controlar dados produtivos e permitir rastreabilidade da produção.
 
-**Tecnologias:** PHP, Laravel, MySQL, Docker, React Native, TypeScript.
+O sistema possui **API REST estruturada em Laravel**, permitindo integração com aplicação mobile e organização das etapas produtivas, incluindo controle de talhões, lotes e processos de produção.
 
+🏆 **Grande vencedor do Prêmio de Empreendedorismo UNIPAM**
+
+📘 **Documentação e explicação da API**  
+https://florada-docs.vercel.app/
+
+**Tecnologias:**  
+PHP • Laravel • MySQL • Docker • React Native • TypeScript
+
+---
 
 ## 📬 Contato
 
@@ -60,7 +78,7 @@ Sistema voltado à gestão rural da cultura do café e **grande vencedor do Prê
     <img src="https://img.shields.io/badge/Email-ff7a18?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/gabriel-marra-b7502b310/">
+  <a href="https://www.linkedin.com/in/gabriel-meireles-b7502b310/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
