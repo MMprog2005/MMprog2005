@@ -11,7 +11,7 @@
   />
 </p>
 
-Desenvolvedor focado em **backend**, especializado na construção de **APIs REST**, **arquitetura MVC** e **modelagem de banco de dados** utilizando **PHP/Laravel**.
+Desenvolvedor **backend** com **3 anos de experiência** em **PHP/Laravel**, especializado na construção de **APIs REST**, **arquitetura MVC** e **modelagem de banco de dados**.
 
 Atuo no desenvolvimento de **sistemas web estruturados, seguros e escaláveis**, com forte atenção à organização do código, validação de dados, controle de acesso e boas práticas de engenharia de software.
 
@@ -82,6 +82,20 @@ https://github.com/JaoPedr0o/homeCare-P.I
 
 **Tecnologias:**  
 PHP • MySQL • JavaScript • HTML/CSS
+
+---
+
+### 🐾 GAAPO
+
+Plataforma web para uma ONG dedicada ao cuidado, proteção e adoção responsável de animais, com site institucional público (divulgação de animais, eventos e doações) e painel administrativo completo para gestão de conteúdo.
+
+Atuei como responsável pelo **backend**: integração com **Prisma ORM**, migrations, services e endpoints da API, incluindo autenticação **JWT** e upload de imagens via Cloudinary.
+
+🔗 **Repositório**  
+https://github.com/JaoPedr0o/gaapo
+
+**Tecnologias:**  
+Next.js • TypeScript • Prisma • PostgreSQL • Docker • JWT
 
 ---
 
