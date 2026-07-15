@@ -2,7 +2,7 @@
   Gabriel Marra
 </h1>
 
-**`Backend Developer | PHP • Laravel • APIs`**
+**`Fullstack Developer | PHP • Laravel • Next.js • APIs`**
 
 <p align="center">
   <img 
@@ -11,11 +11,11 @@
   />
 </p>
 
-Desenvolvedor **backend** com **3 anos de experiência** em **PHP/Laravel**, especializado na construção de **APIs REST**, **arquitetura MVC** e **modelagem de banco de dados**.
+Desenvolvedor **fullstack** com **3 anos de experiência** em **PHP/Laravel**, atuando também com **Next.js**, **React** e **TypeScript** no desenvolvimento de aplicações completas.
 
-Atuo no desenvolvimento de **sistemas web estruturados, seguros e escaláveis**, com forte atenção à organização do código, validação de dados, controle de acesso e boas práticas de engenharia de software.
+Tenho como base forte o **backend**: construção de **APIs REST**, **arquitetura MVC**, **modelagem de banco de dados** e **integração com ORMs** (Eloquent e Prisma), com atenção à organização do código, validação de dados e controle de acesso.
 
-Tenho experiência no desenvolvimento de **sistemas administrativos e aplicações de gestão**, estruturando APIs que integram aplicações web e mobile.
+Também atuo em **frontend** e integração fullstack, estruturando aplicações que conectam backend, web e mobile de ponta a ponta.
 
 ---
 
@@ -25,15 +25,19 @@ Tenho experiência no desenvolvimento de **sistemas administrativos e aplicaçõ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="34"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="34"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34"/>
@@ -41,15 +45,22 @@ Tenho experiência no desenvolvimento de **sistemas administrativos e aplicaçõ
 
 ---
 
-## 🧠 Áreas de Atuação
+## 🧠 Skills
 
-- Desenvolvimento **Backend**
-- Construção de **APIs REST**
-- **Arquitetura MVC**
-- **Modelagem de banco de dados**
-- **Controle de autenticação e permissões**
-- **Validação e integridade de dados**
-- Integração **backend ↔ aplicações mobile/web**
+**Linguagens**
+PHP • JavaScript • TypeScript • SQL • HTML • CSS
+
+**Frameworks & Bibliotecas**
+Laravel • Next.js • React • React Native • Tailwind CSS
+
+**Backend & APIs**
+APIs REST • Arquitetura MVC • Eloquent ORM • Prisma ORM • Autenticação JWT • Controle de permissões
+
+**Banco de Dados**
+MySQL • PostgreSQL • Modelagem de dados • Migrations
+
+**DevOps & Ferramentas**
+Docker • Git/GitHub • Integração com serviços externos (Cloudinary, Resend)
 
 ---
 
