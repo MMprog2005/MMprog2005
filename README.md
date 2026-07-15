@@ -71,6 +71,20 @@ PHP • Laravel • MySQL • Docker • React Native • TypeScript
 
 ---
 
+### 💙 Vital+
+
+Sistema de **gestão para cuidados domiciliares (home care)**, que conecta pacientes e profissionais de saúde em uma mesma plataforma, com perfis dinâmicos, cadastro e autenticação, e **chat em tempo real** para comunicação entre paciente e profissional.
+
+Colaborei no desenvolvimento do sistema, atuando em módulos como autenticação/controle de acesso, perfis de paciente e profissional, e chat em tempo real.
+
+🔗 **Repositório**  
+https://github.com/JaoPedr0o/homeCare-P.I
+
+**Tecnologias:**  
+PHP • MySQL • JavaScript • HTML/CSS
+
+---
+
 ## 📬 Contato
 
 <p align="center">
