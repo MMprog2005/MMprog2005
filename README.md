@@ -48,10 +48,10 @@ Também atuo em **frontend** e integração fullstack, estruturando aplicações
 ## 🧠 Skills
 
 **Linguagens**
-PHP • JavaScript • TypeScript • SQL • HTML • CSS
+PHP • JavaScript • TypeScript • SQL • Java
 
 **Frameworks & Bibliotecas**
-Laravel • Next.js • React • React Native • Tailwind CSS
+Laravel • Next.js • React • React Native • Tailwind CSS • SpringBoot
 
 **Backend & APIs**
 APIs REST • Arquitetura MVC • Eloquent ORM • Prisma ORM • Autenticação JWT • Controle de permissões
@@ -60,7 +60,7 @@ APIs REST • Arquitetura MVC • Eloquent ORM • Prisma ORM • Autenticação
 MySQL • PostgreSQL • Modelagem de dados • Migrations
 
 **DevOps & Ferramentas**
-Docker • Git/GitHub • Integração com serviços externos (Cloudinary, Resend)
+Docker • Git/GitHub • Integração com serviços externos (Cloudinary, Resend) • Bitbucket
 
 ---
 
